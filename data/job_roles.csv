@@ -1,0 +1,11 @@
+job_role,required_skills
+Data Analyst,"Python, SQL, Excel, Pandas, Power BI"
+Machine Learning Engineer,"Python, Machine Learning, Scikit-learn, FastAPI, Docker"
+AI Engineer,"Python, Deep Learning, LLM, RAG, REST API"
+NLP Engineer,"Python, NLP, Transformers, Hugging Face"
+Computer Vision Engineer,"Python, OpenCV, CNN, YOLO"
+Python Developer,"Python, Git, GitHub, REST API, FastAPI"
+Data Scientist,"Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn"
+Data Engineer,"Python, SQL, MySQL, MongoDB, Pandas, Docker"
+Cloud Engineer,"Python, AWS, Azure, Docker, Git, REST API"
+Generative AI Engineer,"Python, LLM, RAG, Hugging Face, Prompt Engineering"
