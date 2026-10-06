@@ -1,23 +1,23 @@
-# 📄 AI Resume Analyzer
+#  AI Resume Analyzer
 
 An AI-powered resume analysis application built using Python and Streamlit.
 
 The application analyzes a user's resume, detects skills, evaluates resume strength, identifies skill gaps, and recommends suitable job roles based on the candidate's skills and resume content.
 
-## 🚀 Features
+## Features
 
-- 📄 Resume Analysis – Upload and analyze a PDF resume.
-- 🧠 Skill Detection – Detect technical skills from the resume.
-- 📊 Resume Strength Score – Calculate an overall resume score out of 100.
-- 🔍 Resume Section Analysis – Check important resume sections.
-- 📞 Contact Information Detection – Detect Email, Phone, LinkedIn, and GitHub.
-- 💼 Job Role Matching – Compare the resume with available job roles.
-- 📋 All Job Roles – Display and rank all available job roles.
-- 🏆 Top 3 Recommendations – Recommend the three most suitable job roles.
-- 💡 Skill Gap Analysis – Identify missing skills for a selected role.
-- 📈 TF-IDF Similarity – Compare resume content with job descriptions.
+-  Resume Analysis – Upload and analyze a PDF resume.
+-  Skill Detection – Detect technical skills from the resume.
+-  Resume Strength Score – Calculate an overall resume score out of 100.
+-  Resume Section Analysis – Check important resume sections.
+-  Contact Information Detection – Detect Email, Phone, LinkedIn, and GitHub.
+-  Job Role Matching – Compare the resume with available job roles.
+-  All Job Roles – Display and rank all available job roles.
+-  Top 3 Recommendations – Recommend the three most suitable job roles.
+-  Skill Gap Analysis – Identify missing skills for a selected role.
+-  TF-IDF Similarity – Compare resume content with job descriptions.
 
-## 🧮 Job Matching
+##  Job Matching
 
 The application uses two main factors to calculate the final job match score:
 
@@ -30,7 +30,7 @@ Skill Match × 70% + TF-IDF Similarity × 30%
 
 The system analyzes all available job roles, ranks them based on their final score, and selects the Top 3 recommended roles.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -44,7 +44,7 @@ The system analyzes all available job roles, ranks them based on their final sco
 - Git
 - GitHub
 
-## 📁 Project Structure
+##  Project Structure
 
 AI-Resume-Analyzer/
 │
@@ -68,7 +68,7 @@ AI-Resume-Analyzer/
 │
 └── sample_resumes/
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -82,17 +82,13 @@ cd AI-Resume-Analyzer
 
 pip install -r requirements.txt
 
-## ▶️ Run the Application
-
-Run the following command:
-
-streamlit run app.py
+##  Run the Application
 
 The application will open in your browser at:
 
-http://localhost:8501
+https://ai-resume-analyzer-mp.streamlit.app/
 
-## 📊 Output
+##  Output
 
 The application provides:
 
@@ -108,11 +104,11 @@ The application provides:
 - Missing Skills
 - Top 3 Job Recommendations
 
-## 🎯 Purpose
+## Purpose
 
 This project is designed to help students and job seekers understand their resume strengths, identify missing skills, and discover suitable technical career roles.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - AI-based resume improvement suggestions
 - Job description upload and matching
@@ -121,10 +117,9 @@ This project is designed to help students and job seekers understand their resum
 - DOCX resume support
 - Online deployment
 
-## 👨‍💻 Author
+## Author
 
 M H Akash Varma
-
 Computer Science Engineering Student
 
 GitHub:
